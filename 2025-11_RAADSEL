@@ -1,0 +1,20 @@
+<html>
+
+<head>
+<style>
+      img {
+        width: 50%;
+        height: auto;
+      }
+</style>
+</head>
+
+<body>
+<p><img src='2025-11_CONTENT/VAEVICTUS1.jpg'></p>
+<hr>
+<p><img src='2025-11_CONTENT/VAEVICTUS2.jpg'></p>
+<hr>
+<p><img src='2025-11_CONTENT/VAEVICTUS3.jpg'></p>
+
+</body>
+</html>
